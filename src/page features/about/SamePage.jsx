@@ -173,7 +173,7 @@ export const SamePage = () => {
          
 
           <motion.p
-            className="translate-y-centered-offset absolute top-1/2 text-white left-[calc(50%-43rem)] w-[50rem] pl-16 pr-5 text-xl leading-tight"
+            className="translate-y-centered-offset absolute top-1/2 text-white left-[calc(50%-25rem)] w-[50rem] pl-16 pr-5 text-xl leading-tight"
             style={{
               opacity: endTextOpacity,
               "--y": endTexty,
